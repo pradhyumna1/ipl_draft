@@ -1,0 +1,249 @@
+team,player,is_overseas
+Chennai Super Kings,Kartik Sharma,False
+Chennai Super Kings,Prashant Veer,False
+Chennai Super Kings,Rahul Chahar,False
+Chennai Super Kings,Akeal Hosein,True
+Chennai Super Kings,Matt Henry,True
+Chennai Super Kings,Matthew Short,True
+Chennai Super Kings,Aman Khan,False
+Chennai Super Kings,Sarfaraz Khan,False
+Chennai Super Kings,Zakary Foulkes,False
+Chennai Super Kings,Sanju Samson,False
+Chennai Super Kings,Ruturaj Gaikwad,False
+Chennai Super Kings,Ayush Mhatre,False
+Chennai Super Kings,M.S. Dhoni,False
+Chennai Super Kings,Dewald Brevis,True
+Chennai Super Kings,Urvil Patel,False
+Chennai Super Kings,Shivam Dube,False
+Chennai Super Kings,Jamie Overton,True
+Chennai Super Kings,Ramakrishna Ghosh,False
+Chennai Super Kings,Noor Ahmad,True
+Chennai Super Kings,Khaleel Ahmed,False
+Chennai Super Kings,Anshul Kamboj,False
+Chennai Super Kings,Gurjapneet Singh,False
+Chennai Super Kings,Shreyas Gopal,False
+Chennai Super Kings,Mukesh Choudhary,False
+Chennai Super Kings,Nathan Ellis,True
+Mumbai Indians,Quinton de Kock,True
+Mumbai Indians,Mohammad Izhar,False
+Mumbai Indians,Danish Malewar,False
+Mumbai Indians,Atharva Ankolekar,False
+Mumbai Indians,Mayank Rawat,False
+Mumbai Indians,Sherfane Rutherford,True
+Mumbai Indians,Mayank Markande,False
+Mumbai Indians,Shardul Thakur,False
+Mumbai Indians,Hardik Pandya,False
+Mumbai Indians,Rohit Sharma,False
+Mumbai Indians,Suryakumar Yadav,False
+Mumbai Indians,Tilak Varma,False
+Mumbai Indians,Ryan Rickleton,False
+Mumbai Indians,Robin Minz,False
+Mumbai Indians,Mitchell Santner,True
+Mumbai Indians,Corbin Bosch,True
+Mumbai Indians,Naman Dhir,False
+Mumbai Indians,Jasprit Bumrah,False
+Mumbai Indians,Trent Boult,True
+Mumbai Indians,Allah Ghafanzar,False
+Mumbai Indians,Ashwani Kumar,False
+Mumbai Indians,Deepak Chahar,False
+Mumbai Indians,Will Jacks,True
+Mumbai Indians,Raghu Sharma,False
+Mumbai Indians,Raj Angad Bawa,False
+Kolkata Knight Riders,Cameron Green,True
+Kolkata Knight Riders,Matheesha Pathirana,True
+Kolkata Knight Riders,Mustafizur Rahman,True
+Kolkata Knight Riders,Tejasvi Singh,False
+Kolkata Knight Riders,Finn Allen,True
+Kolkata Knight Riders,Tim Seifert,True
+Kolkata Knight Riders,Rahul Tripathi,False
+Kolkata Knight Riders,Kartik Tyagi,False
+Kolkata Knight Riders,Daksh Kamra,False
+Kolkata Knight Riders,Sarthak Ranjan,False
+Kolkata Knight Riders,Prashant Solanki,False
+Kolkata Knight Riders,Akashdeep,False
+Kolkata Knight Riders,Rachin Ravindra,True
+Kolkata Knight Riders,Ajinkya Rahane,False
+Kolkata Knight Riders,Sunil Narine,False
+Kolkata Knight Riders,Rinku Singh,False
+Kolkata Knight Riders,Angkrish Raghuvanshi,False
+Kolkata Knight Riders,Manish Pandey,False
+Kolkata Knight Riders,Varun Chakravarthy,False
+Kolkata Knight Riders,Ramandeep Singh,False
+Kolkata Knight Riders,Ankul Roy,False
+Kolkata Knight Riders,Rovman Powell,False
+Kolkata Knight Riders,Harshit Rana,False
+Kolkata Knight Riders,Vaibhav Arora,False
+Kolkata Knight Riders,Umran Malik,False
+Royal Challengers Bengaluru,Venkatesh Iyer,False
+Royal Challengers Bengaluru,Mangesh Yadav,False
+Royal Challengers Bengaluru,Jacob Duffy,True
+Royal Challengers Bengaluru,Satwik Deswal,False
+Royal Challengers Bengaluru,Jordan Cox,True
+Royal Challengers Bengaluru,Vihaan Malhotra,False
+Royal Challengers Bengaluru,Kanishk Chouhan,False
+Royal Challengers Bengaluru,Vicky Ostwal,False
+Royal Challengers Bengaluru,Rajat Patidar,False
+Royal Challengers Bengaluru,Virat Kohli,False
+Royal Challengers Bengaluru,Devdutt Padikkal,False
+Royal Challengers Bengaluru,Phil Salt,False
+Royal Challengers Bengaluru,Jitesh Sharma,False
+Royal Challengers Bengaluru,Krunal Pandya,False
+Royal Challengers Bengaluru,Swapnil Singh,False
+Royal Challengers Bengaluru,Tim David,True
+Royal Challengers Bengaluru,Romario Shepherd,True
+Royal Challengers Bengaluru,Jacob Bethell,False
+Royal Challengers Bengaluru,Josh Hazlewood,True
+Royal Challengers Bengaluru,Yash Dayal,False
+Royal Challengers Bengaluru,Bhuvneshwar Kumar,False
+Royal Challengers Bengaluru,Nuwan Thushara,False
+Royal Challengers Bengaluru,Rasikh Salam,False
+Royal Challengers Bengaluru,Abhinandan Singh,False
+Royal Challengers Bengaluru,Suyash Sharma,False
+Punjab Kings,Cooper Connolly,True
+Punjab Kings,Ben Dwarshuis,True
+Punjab Kings,Praveen Dubey,False
+Punjab Kings,Vishal Nishad,False
+Punjab Kings,Prabhsimran Singh,False
+Punjab Kings,Priyansh Arya,False
+Punjab Kings,Shreyas Iyer,False
+Punjab Kings,Shashank Singh,False
+Punjab Kings,Nehal Wadhera,False
+Punjab Kings,Marcus Stoinis,True
+Punjab Kings,Azmatullah Omarzai,True
+Punjab Kings,Marco Jansen,True
+Punjab Kings,Harpreet Brar,False
+Punjab Kings,Yuzvendra Chahal,False
+Punjab Kings,Arshdeep Singh,False
+Punjab Kings,Musheer Khan,False
+Punjab Kings,Pyala Avinash,False
+Punjab Kings,Harnoor Pannu,False
+Punjab Kings,Suryansh Shedge,False
+Punjab Kings,Mitchell Owen,False
+Punjab Kings,Xavier Bartlett,True
+Punjab Kings,Lockie Ferguson,True
+Punjab Kings,Vyshak Vijaykumar,False
+Punjab Kings,Yash Thakur,False
+Punjab Kings,Vishnu Vinod,False
+Gujarat Titans,Jason Holder,True
+Gujarat Titans,Ashok Sharma,False
+Gujarat Titans,Luke Wood,True
+Gujarat Titans,Prithvi Raj Yarra,False
+Gujarat Titans,Tom Banton,True
+Gujarat Titans,Shubman Gill,False
+Gujarat Titans,Sai Sudharsan,False
+Gujarat Titans,Kumar Kushagra,False
+Gujarat Titans,Anuj Rawat,False
+Gujarat Titans,Jos Buttler,True
+Gujarat Titans,Nishant Sindhu,False
+Gujarat Titans,Washington Sundar,False
+Gujarat Titans,Arshad Khan,False
+Gujarat Titans,Shahrukh Khan,False
+Gujarat Titans,Rahul Tewatia,False
+Gujarat Titans,Kagiso Rabada,True
+Gujarat Titans,Mohammed Siraj,False
+Gujarat Titans,Prasidh Krishna,False
+Gujarat Titans,Ishant Sharma,False
+Gujarat Titans,Gurnoor Singh Brar,False
+Gujarat Titans,Rashid Khan,True
+Gujarat Titans,Manav Suthar,False
+Gujarat Titans,Sai Kishore,False
+Gujarat Titans,Jayant Yadav,False
+Gujarat Titans,Glenn Phillips,True
+Rajasthan Royals,Ravi Bishnoi,False
+Rajasthan Royals,Ravi Singh,False
+Rajasthan Royals,Sushant Mishra,False
+Rajasthan Royals,Vignesh Puthur,False
+Rajasthan Royals,Yash Raj Punja,False
+Rajasthan Royals,Aman Rao,False
+Rajasthan Royals,Brijesh Sharma,False
+Rajasthan Royals,Kuldeep Sen,False
+Rajasthan Royals,Adam Milne,True
+Rajasthan Royals,Ravindra Jadeja,False
+Rajasthan Royals,Sam Curran,False
+Rajasthan Royals,Shubham Dubey,False
+Rajasthan Royals,Vaibhav Suryavanshi,False
+Rajasthan Royals,Lhuan-Dre Pretorius,False
+Rajasthan Royals,Shimron Hetmyer,True
+Rajasthan Royals,Yashasvi Jaiswal,False
+Rajasthan Royals,Dhruv Jurel,False
+Rajasthan Royals,Riyan Parag,False
+Rajasthan Royals,Yudhvir Singh Charak,False
+Rajasthan Royals,Jofra Archer,True
+Rajasthan Royals,Tushar Deshpande,False
+Rajasthan Royals,Kwena Maphaka,False
+Rajasthan Royals,Nandre Burger,False
+Sunrisers Hyderabad,Salil Arora,False
+Sunrisers Hyderabad,Shivang Kumar,False
+Sunrisers Hyderabad,Sakib Hussain,False
+Sunrisers Hyderabad,Onkar Tarmale,False
+Sunrisers Hyderabad,Krains Fuletra,False
+Sunrisers Hyderabad,Praful Hinge,False
+Sunrisers Hyderabad,Amit Kumar,False
+Sunrisers Hyderabad,Shivam Mavi,False
+Sunrisers Hyderabad,Liam Livingstone,True
+Sunrisers Hyderabad,Jack Edwards,True
+Sunrisers Hyderabad,Pat Cummins,True
+Sunrisers Hyderabad,Travis Head,True
+Sunrisers Hyderabad,Abhishek Sharma,False
+Sunrisers Hyderabad,Aniket Verma,False
+Sunrisers Hyderabad,R. Smaran,False
+Sunrisers Hyderabad,Ishan Kishan,False
+Sunrisers Hyderabad,Heinrich Klaasen,True
+Sunrisers Hyderabad,Nitish Kumar Reddy,False
+Sunrisers Hyderabad,Harsh Dubey,False
+Sunrisers Hyderabad,Kamindu Mendis,True
+Sunrisers Hyderabad,Harshal Patel,False
+Sunrisers Hyderabad,Brydon Carse,True
+Sunrisers Hyderabad,Jaydev Unadkat,False
+Sunrisers Hyderabad,Eshan Malinga,True
+Sunrisers Hyderabad,Zeeshan Ansari,False
+Lucknow Super Giants,Josh Inglis,True
+Lucknow Super Giants,Mukul Choudhary,False
+Lucknow Super Giants,Akshat Raghuwanshi,False
+Lucknow Super Giants,Anrich Nortje,True
+Lucknow Super Giants,Wanindu Hasaranga,True
+Lucknow Super Giants,Naman Tiwari,False
+Lucknow Super Giants,Mohammed Shami,False
+Lucknow Super Giants,Arjun Tendulkar,False
+Lucknow Super Giants,Abdul Samad,False
+Lucknow Super Giants,Ayush Badoni,False
+Lucknow Super Giants,Aiden Markram,False
+Lucknow Super Giants,Matthew Breetzke,False
+Lucknow Super Giants,Himmat Singh,False
+Lucknow Super Giants,Rishabh Pant,False
+Lucknow Super Giants,Nicholas Pooran,True
+Lucknow Super Giants,Mitchell Marsh,True
+Lucknow Super Giants,Shahbaz Ahmed,False
+Lucknow Super Giants,Arshin Kulkarni,False
+Lucknow Super Giants,Mayank Yadav,False
+Lucknow Super Giants,Avesh Khan,False
+Lucknow Super Giants,Mohsin Khan,False
+Lucknow Super Giants,Manimaran Siddharth,False
+Lucknow Super Giants,Digvesh Rathi,False
+Lucknow Super Giants,Prince Yadav,False
+Lucknow Super Giants,Akash Singh,False
+Delhi Capitals,Auqib Nabi Dar,False
+Delhi Capitals,Pathum Nissanka,True
+Delhi Capitals,Ben Duckett,True
+Delhi Capitals,David Miller,True
+Delhi Capitals,Lungi Ngidi,True
+Delhi Capitals,Sahil Parakh,False
+Delhi Capitals,Prithvi Shaw,False
+Delhi Capitals,Kyle Jamieson,True
+Delhi Capitals,Nitish Rana,False
+Delhi Capitals,Axar Patel,False
+Delhi Capitals,KL Rahul,False
+Delhi Capitals,Abishek Porel,False
+Delhi Capitals,Tristan Stubbs,False
+Delhi Capitals,Karun Nair,False
+Delhi Capitals,Sameer Rizvi,False
+Delhi Capitals,Ashutosh Sharma,False
+Delhi Capitals,Vipraj Nigam,False
+Delhi Capitals,Madhav Tiwari,False
+Delhi Capitals,Tripurana Vijay,False
+Delhi Capitals,Ajay Mandal,False
+Delhi Capitals,Kuldeep Yadav,False
+Delhi Capitals,Mitchell Starc,True
+Delhi Capitals,T. Natarajan,False
+Delhi Capitals,Mukesh Kumar,False
+Delhi Capitals,Dushmantha Chameera,True

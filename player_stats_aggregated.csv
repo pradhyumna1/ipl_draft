@@ -1,0 +1,249 @@
+team,player,is_overseas,role,matches,runs,balls_faced,fours,sixes,innings_batted,dismissals,ducks,low_score_le_5,score_25_plus,score_40_plus,score_60_plus,score_80_plus,score_100_plus,balls_bowled,runs_conceded,wickets,dot_balls,maidens,wides,no_balls,bowled_lbw_wickets,wickets_2_plus,wickets_3_plus,wickets_4_plus,wickets_5_plus,wickets_6_plus,catches,stumpings,runouts,two_catch_games
+Chennai Super Kings,Kartik Sharma,False,wicketkeeper,7,4,9,0,0,3,1,0,3,0,0,0,0,0,90,128,7,24,0,1,0,0,2,2,0,0,0,1,0,0,0
+Chennai Super Kings,Prashant Veer,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,Rahul Chahar,False,bowler,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,Akeal Hosein,True,all_rounder,74,317,237,16,21,35,16,4,21,2,1,0,0,0,1490,1911,70,594,3,27,6,21,17,6,0,0,0,8,0,4,0
+Chennai Super Kings,Matt Henry,True,bowler,41,88,85,7,2,17,11,2,7,0,0,0,0,0,795,1026,58,375,4,24,3,8,18,7,2,1,0,13,0,3,1
+Chennai Super Kings,Matthew Short,True,all_rounder,56,1787,1279,170,76,56,53,2,10,30,18,11,4,1,536,755,23,153,0,24,1,6,5,4,1,0,0,33,0,4,7
+Chennai Super Kings,Aman Khan,False,all_rounder,102,1102,845,83,64,78,63,8,29,13,6,3,0,0,957,1366,53,338,0,76,4,16,12,5,1,1,1,30,3,5,4
+Chennai Super Kings,Sarfaraz Khan,False,batter,61,805,572,66,41,52,42,3,16,15,6,0,0,0,969,1363,53,298,0,38,4,14,15,6,2,0,0,19,0,3,1
+Chennai Super Kings,Zakary Foulkes,False,bowler,35,146,114,13,6,21,12,0,13,0,0,0,0,0,699,984,35,277,2,63,5,14,9,2,0,0,0,8,0,0,1
+Chennai Super Kings,Sanju Samson,False,wicketkeeper,30,874,573,76,51,30,29,1,5,12,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,3,2,6
+Chennai Super Kings,Ruturaj Gaikwad,False,batter,5,122,81,14,4,5,5,1,3,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+Chennai Super Kings,Ayush Mhatre,False,batter,7,240,127,31,11,7,7,1,1,5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+Chennai Super Kings,M.S. Dhoni,False,wicketkeeper,13,196,145,12,12,13,8,0,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,2,0
+Chennai Super Kings,Dewald Brevis,True,batter,59,1721,1013,94,143,58,49,1,5,28,16,5,2,2,30,39,3,9,0,1,0,0,0,0,0,0,0,38,0,3,7
+Chennai Super Kings,Urvil Patel,False,wicketkeeper,11,118,83,10,8,11,11,3,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,2,1
+Chennai Super Kings,Shivam Dube,False,all_rounder,43,900,581,59,60,38,28,1,5,16,9,2,0,0,263,453,20,78,0,23,6,3,6,1,0,0,0,14,0,0,4
+Chennai Super Kings,Jamie Overton,True,all_rounder,72,419,318,33,15,48,31,6,24,4,0,0,0,0,1343,1891,78,546,5,73,1,14,23,7,0,0,0,51,0,3,11
+Chennai Super Kings,Ramakrishna Ghosh,False,all_rounder,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,Noor Ahmad,True,bowler,92,290,274,20,13,36,30,7,20,3,2,0,0,0,1924,2561,121,745,2,98,16,48,35,17,8,1,0,26,0,2,2
+Chennai Super Kings,Khaleel Ahmed,False,bowler,52,406,332,31,18,27,21,5,9,8,2,1,0,0,753,1111,44,302,1,25,8,6,12,5,3,0,0,26,2,11,6
+Chennai Super Kings,Anshul Kamboj,False,bowler,8,14,12,2,0,5,2,1,5,0,0,0,0,0,129,172,8,55,0,0,1,4,1,1,0,0,0,1,0,0,0
+Chennai Super Kings,Gurjapneet Singh,False,bowler,17,202,230,14,2,12,11,0,6,3,2,1,0,0,336,442,11,152,2,12,1,2,3,1,0,0,0,2,0,2,0
+Chennai Super Kings,Shreyas Gopal,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,Mukesh Choudhary,False,bowler,2,0,0,0,0,0,0,0,0,0,0,0,0,0,36,71,1,11,0,0,0,1,0,0,0,0,0,0,0,0,0
+Chennai Super Kings,Nathan Ellis,True,bowler,33,94,82,8,4,13,5,2,9,1,1,0,0,0,701,982,47,235,1,30,5,14,14,7,1,0,0,6,0,4,0
+Mumbai Indians,Quinton de Kock,True,wicketkeeper,65,1734,1220,150,93,65,63,6,17,24,18,9,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,58,4,9,14
+Mumbai Indians,Mohammad Izhar,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Danish Malewar,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Atharva Ankolekar,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Mayank Rawat,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Sherfane Rutherford,True,batter,79,1791,1175,134,114,79,60,9,17,34,16,3,1,0,102,196,8,23,0,22,2,0,2,1,1,0,0,26,0,4,2
+Mumbai Indians,Mayank Markande,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Shardul Thakur,False,all_rounder,10,18,12,3,0,5,3,1,4,0,0,0,0,0,204,375,13,60,0,21,1,1,4,1,1,0,0,4,0,0,0
+Mumbai Indians,Hardik Pandya,False,all_rounder,44,812,507,57,51,36,29,1,10,15,9,1,0,0,696,1065,39,257,1,44,4,3,9,1,1,1,0,13,0,4,2
+Mumbai Indians,Rohit Sharma,False,batter,19,500,337,47,26,19,16,1,2,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1
+Mumbai Indians,Suryakumar Yadav,False,batter,57,1498,967,133,76,54,43,5,12,28,15,6,2,0,102,113,7,47,0,4,0,4,1,0,0,0,0,19,0,2,2
+Mumbai Indians,Tilak Varma,False,batter,40,1117,821,82,52,40,30,2,7,25,9,4,0,0,27,29,2,10,0,0,0,0,0,0,0,0,0,30,0,0,6
+Mumbai Indians,Ryan Rickleton,False,wicketkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Robin Minz,False,wicketkeeper,2,6,15,0,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Mitchell Santner,True,all_rounder,55,540,386,40,27,38,22,1,14,7,4,0,0,0,1135,1490,54,364,1,47,0,12,15,6,0,0,0,19,0,4,1
+Mumbai Indians,Corbin Bosch,True,all_rounder,60,233,212,17,6,30,19,2,16,2,0,0,0,0,1177,1679,79,452,2,60,12,13,24,11,4,1,0,19,0,5,2
+Mumbai Indians,Naman Dhir,False,all_rounder,12,252,138,25,13,12,8,1,1,4,1,0,0,0,24,21,0,8,0,0,0,0,0,0,0,0,0,12,0,0,3
+Mumbai Indians,Jasprit Bumrah,False,bowler,35,4,5,1,0,4,3,2,4,0,0,0,0,0,789,925,50,347,0,32,3,23,16,5,2,0,0,5,0,1,0
+Mumbai Indians,Trent Boult,True,bowler,56,66,50,3,4,13,6,1,7,0,0,0,0,0,1202,1689,62,469,1,43,4,21,17,6,2,0,0,5,0,0,0
+Mumbai Indians,Allah Ghafanzar,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Ashwani Kumar,False,bowler,26,9,11,2,0,4,3,2,3,0,0,0,0,0,513,745,34,182,0,32,4,4,9,3,1,0,0,6,0,2,0
+Mumbai Indians,Deepak Chahar,False,bowler,14,37,25,3,2,4,1,1,2,1,0,0,0,0,246,376,11,106,1,20,2,0,2,0,0,0,0,2,0,1,0
+Mumbai Indians,Will Jacks,True,all_rounder,57,1502,987,144,69,53,46,3,10,25,14,5,2,1,563,736,33,219,1,19,1,8,10,2,0,0,0,32,0,1,4
+Mumbai Indians,Raghu Sharma,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mumbai Indians,Raj Angad Bawa,False,all_rounder,2,13,9,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0
+Kolkata Knight Riders,Cameron Green,True,all_rounder,94,1228,857,88,52,78,50,3,20,20,3,0,0,0,1381,1850,77,428,1,48,4,13,24,12,1,0,0,55,1,5,11
+Kolkata Knight Riders,Matheesha Pathirana,True,bowler,33,9,13,0,0,5,2,1,5,0,0,0,0,0,674,1054,34,214,1,96,3,8,11,2,0,0,0,7,0,2,0
+Kolkata Knight Riders,Mustafizur Rahman,True,bowler,95,798,646,54,49,51,37,5,13,8,3,3,1,0,1886,2312,104,755,6,77,8,20,29,11,1,0,0,38,0,6,8
+Kolkata Knight Riders,Tejasvi Singh,False,bowler,32,595,396,59,31,29,24,0,6,8,4,1,1,0,408,442,25,172,1,17,1,7,9,2,1,0,0,13,0,1,1
+Kolkata Knight Riders,Finn Allen,True,wicketkeeper,60,1843,969,143,141,60,53,4,9,26,17,9,5,3,42,62,1,13,0,1,0,0,0,0,0,0,0,29,1,3,5
+Kolkata Knight Riders,Tim Seifert,True,wicketkeeper,73,2132,1423,210,102,73,66,4,13,35,18,9,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,35,10,12,8
+Kolkata Knight Riders,Rahul Tripathi,False,batter,15,179,207,18,3,14,14,2,6,3,0,0,0,0,8,4,2,5,0,1,0,1,1,0,0,0,0,1,0,0,0
+Kolkata Knight Riders,Kartik Tyagi,False,bowler,14,39,47,2,2,11,6,1,9,0,0,0,0,0,258,341,15,110,0,27,3,4,4,0,0,0,0,5,0,1,1
+Kolkata Knight Riders,Daksh Kamra,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kolkata Knight Riders,Sarthak Ranjan,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kolkata Knight Riders,Prashant Solanki,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kolkata Knight Riders,Akashdeep,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kolkata Knight Riders,Rachin Ravindra,True,all_rounder,50,1158,776,112,46,49,44,2,11,21,12,4,0,0,311,420,23,119,1,9,2,5,6,2,1,0,0,16,0,1,0
+Kolkata Knight Riders,Ajinkya Rahane,False,batter,12,390,264,36,20,12,11,0,0,7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0
+Kolkata Knight Riders,Sunil Narine,False,all_rounder,57,425,283,37,31,35,30,5,17,8,2,0,0,0,1332,1453,44,504,3,31,4,16,12,4,0,0,0,14,0,2,1
+Kolkata Knight Riders,Rinku Singh,False,batter,42,577,428,49,27,40,27,3,11,8,3,0,0,0,142,210,6,48,0,6,0,2,1,0,0,0,0,44,0,3,7
+Kolkata Knight Riders,Angkrish Raghuvanshi,False,batter,11,300,215,30,8,11,9,0,2,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Kolkata Knight Riders,Manish Pandey,False,batter,11,252,224,18,9,11,9,0,2,5,1,0,0,0,42,59,2,15,0,1,0,1,0,0,0,0,0,0,0,3,0
+Kolkata Knight Riders,Varun Chakravarthy,False,bowler,43,4,12,0,0,9,2,2,9,0,0,0,0,0,960,1253,71,366,1,18,0,32,24,6,2,1,0,9,0,0,1
+Kolkata Knight Riders,Ramandeep Singh,False,all_rounder,7,47,35,1,4,7,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1
+Kolkata Knight Riders,Ankul Roy,False,all_rounder,44,995,795,92,35,44,41,3,14,17,8,4,1,0,24,27,1,8,0,1,0,0,0,0,0,0,0,34,0,3,6
+Kolkata Knight Riders,Rovman Powell,True,batter,61,1313,859,88,87,61,44,3,17,24,11,3,1,0,6,21,0,0,0,0,0,0,0,0,0,0,0,28,0,2,5
+Kolkata Knight Riders,Harshit Rana,False,bowler,21,114,107,9,5,10,6,0,5,2,0,0,0,0,432,745,24,163,1,13,3,6,8,2,0,0,0,9,0,0,1
+Kolkata Knight Riders,Vaibhav Arora,False,bowler,12,0,8,0,0,2,2,2,2,0,0,0,0,0,255,430,17,93,1,17,0,3,4,2,0,0,0,4,0,2,1
+Kolkata Knight Riders,Umran Malik,False,bowler,2,14,15,0,0,1,1,0,0,0,0,0,0,0,12,35,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0
+Royal Challengers Bengaluru,Venkatesh Iyer,False,all_rounder,7,142,102,15,4,7,7,0,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1
+Royal Challengers Bengaluru,Mangesh Yadav,False,bowler,8,84,94,5,2,6,4,0,2,2,0,0,0,0,66,119,4,24,0,5,0,3,2,0,0,0,0,3,0,0,1
+Royal Challengers Bengaluru,Jacob Duffy,True,bowler,51,64,50,2,3,16,8,3,13,0,0,0,0,0,1050,1484,68,461,1,64,2,12,21,7,3,0,0,11,0,1,2
+Royal Challengers Bengaluru,Satwik Deswal,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Royal Challengers Bengaluru,Jordan Cox,True,wicketkeeper,60,1599,1139,136,66,60,47,4,15,25,16,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,6,9
+Royal Challengers Bengaluru,Vihaan Malhotra,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Royal Challengers Bengaluru,Kanishk Chouhan,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Royal Challengers Bengaluru,Vicky Ostwal,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Royal Challengers Bengaluru,Rajat Patidar,False,batter,14,312,217,25,14,14,13,0,1,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Royal Challengers Bengaluru,Virat Kohli,False,batter,15,657,454,66,19,15,12,0,1,11,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0
+Royal Challengers Bengaluru,Devdutt Padikkal,False,batter,10,247,164,22,14,10,9,1,3,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Royal Challengers Bengaluru,Phil Salt,True,wicketkeeper,63,1795,1180,179,81,63,59,4,21,31,18,10,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,2,6
+Royal Challengers Bengaluru,Jitesh Sharma,False,wicketkeeper,15,323,187,29,20,15,9,0,3,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,3,6
+Royal Challengers Bengaluru,Krunal Pandya,False,all_rounder,15,109,86,9,4,7,6,1,4,1,1,1,0,0,276,379,17,83,0,9,0,2,5,2,1,0,0,6,0,0,0
+Royal Challengers Bengaluru,Swapnil Singh,False,all_rounder,18,97,146,9,0,13,11,4,8,2,0,0,0,0,138,210,4,57,1,2,1,0,2,0,0,0,0,9,0,2,1
+Royal Challengers Bengaluru,Tim David,True,batter,48,1237,719,86,94,48,34,2,9,19,11,6,2,1,30,43,0,7,0,1,0,0,0,0,0,0,0,33,0,6,9
+Royal Challengers Bengaluru,Romario Shepherd,True,all_rounder,71,950,554,65,74,58,34,3,16,12,5,1,0,0,1021,1643,55,320,0,91,6,14,13,3,1,1,0,16,0,2,2
+Royal Challengers Bengaluru,Jacob Bethell,True,all_rounder,41,899,628,76,48,41,37,1,8,12,6,2,2,1,193,281,15,57,0,10,0,1,4,1,1,0,0,24,0,3,5
+Royal Challengers Bengaluru,Josh Hazlewood,True,bowler,19,0,2,0,0,2,0,0,2,0,0,0,0,0,426,585,34,197,0,6,0,4,11,6,1,0,0,2,0,0,0
+Royal Challengers Bengaluru,Yash Dayal,False,bowler,21,57,54,2,2,8,4,1,6,1,0,0,0,0,401,594,18,137,0,12,4,7,4,1,1,0,0,5,0,0,0
+Royal Challengers Bengaluru,Bhuvneshwar Kumar,False,bowler,18,19,37,1,0,8,5,0,7,0,0,0,0,0,402,633,18,146,0,13,2,2,4,1,0,0,0,7,0,1,1
+Royal Challengers Bengaluru,Nuwan Thushara,True,bowler,22,1,13,0,0,3,0,0,3,0,0,0,0,0,473,731,16,140,2,21,4,6,3,1,0,0,0,2,0,0,1
+Royal Challengers Bengaluru,Rasikh Salam,False,bowler,2,0,0,0,0,0,0,0,0,0,0,0,0,0,36,70,1,13,0,2,0,0,0,0,0,0,0,1,0,0,0
+Royal Challengers Bengaluru,Abhinandan Singh,False,bowler,3,30,28,2,1,3,2,0,1,0,0,0,0,0,30,56,0,8,0,2,0,0,0,0,0,0,0,2,0,0,0
+Royal Challengers Bengaluru,Suyash Sharma,False,bowler,36,37,26,0,3,7,5,2,4,0,0,0,0,0,769,1060,36,256,0,36,1,14,9,4,1,0,0,6,0,3,0
+Punjab Kings,Cooper Connolly,True,all_rounder,29,415,316,27,24,28,23,6,13,6,3,1,0,0,408,501,22,154,0,14,0,10,5,1,0,0,0,15,0,0,3
+Punjab Kings,Ben Dwarshuis,True,bowler,50,542,378,35,29,38,24,3,11,9,1,0,0,0,1070,1584,61,395,1,47,1,10,18,7,2,0,0,5,0,5,0
+Punjab Kings,Praveen Dubey,False,bowler,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,20,1,3,0,0,0,0,0,0,0,0,0,1,0,0,0
+Punjab Kings,Vishal Nishad,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punjab Kings,Prabhsimran Singh,False,wicketkeeper,41,734,454,72,38,24,20,1,5,12,7,4,3,0,428,473,25,207,1,42,0,9,6,3,0,0,0,8,1,0,1
+Punjab Kings,Priyansh Arya,False,batter,18,545,299,60,31,18,18,1,2,6,5,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0
+Punjab Kings,Shreyas Iyer,False,batter,17,604,345,43,39,17,12,1,3,10,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1
+Punjab Kings,Shashank Singh,False,batter,14,350,228,23,18,14,7,0,4,6,4,1,0,0,12,27,0,3,0,0,0,0,0,0,0,0,0,7,0,0,2
+Punjab Kings,Nehal Wadhera,False,batter,15,369,253,28,21,15,12,0,3,6,4,2,0,0,5,9,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0
+Punjab Kings,Marcus Stoinis,True,all_rounder,62,1093,800,88,51,54,40,3,15,19,10,4,0,0,849,1302,49,275,2,68,5,10,15,2,0,0,0,16,0,3,0
+Punjab Kings,Azmatullah Omarzai,True,all_rounder,29,459,336,33,22,24,20,0,5,7,4,0,0,0,498,784,28,176,0,28,0,6,8,3,1,0,0,4,0,1,0
+Punjab Kings,Marco Jansen,True,all_rounder,55,475,373,30,28,35,24,2,16,6,3,0,0,0,1176,1626,71,501,2,57,3,12,21,7,4,0,0,20,0,0,2
+Punjab Kings,Harpreet Brar,False,all_rounder,7,11,13,0,1,2,1,0,1,0,0,0,0,0,132,190,10,40,0,1,1,3,3,1,0,0,0,0,0,0,0
+Punjab Kings,Yuzvendra Chahal,False,bowler,13,0,0,0,0,0,0,0,0,0,0,0,0,0,270,430,16,72,0,11,0,2,3,2,2,0,0,2,0,0,0
+Punjab Kings,Arshdeep Singh,False,bowler,39,26,36,4,0,12,10,3,10,0,0,0,0,0,875,1302,55,338,1,68,0,10,17,7,1,1,0,8,0,1,0
+Punjab Kings,Musheer Khan,False,all_rounder,23,199,149,11,14,19,11,3,7,2,1,0,0,0,129,207,8,43,0,6,3,2,2,0,0,0,0,11,0,1,1
+Punjab Kings,Pyala Avinash,False,wicketkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punjab Kings,Harnoor Pannu,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punjab Kings,Suryansh Shedge,False,all_rounder,3,7,11,0,0,3,3,0,3,0,0,0,0,0,18,40,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+Punjab Kings,Mitchell Owen,True,all_rounder,54,1107,580,78,92,52,51,6,11,20,7,3,2,1,376,626,27,118,0,16,1,1,5,3,1,1,0,26,0,3,4
+Punjab Kings,Xavier Bartlett,True,bowler,49,345,252,26,20,32,24,4,16,5,2,0,0,0,916,1396,55,329,0,33,1,5,15,5,3,0,0,23,0,0,4
+Punjab Kings,Lockie Ferguson,True,bowler,44,104,109,10,1,14,8,1,5,0,0,0,0,0,737,956,43,307,1,47,5,15,12,5,0,0,0,12,0,0,2
+Punjab Kings,Vyshak Vijaykumar,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punjab Kings,Yash Thakur,False,bowler,2,0,0,0,0,0,0,0,0,0,0,0,0,0,39,79,1,10,0,3,1,0,0,0,0,0,0,0,0,0,0
+Punjab Kings,Vishnu Vinod,False,wicketkeeper,9,215,194,18,6,8,7,0,1,4,1,0,0,0,115,164,7,52,1,6,0,0,2,2,1,0,0,10,0,0,2
+Gujarat Titans,Jason Holder,True,all_rounder,80,1011,625,56,78,61,41,4,17,15,4,1,0,0,1731,2433,111,614,2,115,10,20,34,10,7,0,0,43,0,5,9
+Gujarat Titans,Ashok Sharma,False,bowler,15,250,200,23,10,10,9,1,1,3,2,1,0,0,84,155,4,21,0,9,1,2,2,0,0,0,0,4,0,1,0
+Gujarat Titans,Luke Wood,True,bowler,83,183,178,11,6,32,22,6,23,2,1,0,0,0,1617,2252,93,654,1,59,14,22,33,6,0,0,0,28,0,5,4
+Gujarat Titans,Prithvi Raj Yarra,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat Titans,Tom Banton,True,wicketkeeper,62,1624,1147,163,64,62,52,2,11,27,13,8,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,5,14
+Gujarat Titans,Shubman Gill,False,batter,50,1277,965,124,30,48,39,1,12,22,11,7,3,0,224,234,7,107,1,8,0,3,1,0,0,0,0,19,0,0,3
+Gujarat Titans,Sai Sudharsan,False,batter,15,759,486,88,21,15,14,0,2,12,10,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,3
+Gujarat Titans,Kumar Kushagra,False,wicketkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat Titans,Anuj Rawat,False,wicketkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat Titans,Jos Buttler,True,wicketkeeper,60,1879,1236,180,84,60,54,5,14,30,19,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,10,8,10
+Gujarat Titans,Nishant Sindhu,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat Titans,Washington Sundar,False,all_rounder,13,237,155,18,13,10,9,0,1,4,3,0,0,0,145,221,6,36,0,4,0,2,1,1,0,0,0,7,0,0,1
+Gujarat Titans,Arshad Khan,False,all_rounder,9,23,19,0,3,4,2,0,3,0,0,0,0,0,126,217,6,46,0,9,1,0,0,0,0,0,0,4,0,0,1
+Gujarat Titans,Shahrukh Khan,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat Titans,Rahul Tewatia,False,all_rounder,11,99,59,6,7,12,8,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+Gujarat Titans,Kagiso Rabada,True,bowler,33,61,53,6,3,14,8,1,9,0,0,0,0,0,703,1019,34,292,3,40,11,7,11,1,1,0,0,6,0,0,1
+Gujarat Titans,Mohammed Siraj,False,bowler,16,3,4,0,0,1,0,0,1,0,0,0,0,0,366,556,19,153,0,31,0,8,5,3,1,0,0,6,0,0,0
+Gujarat Titans,Prasidh Krishna,False,bowler,15,0,0,0,0,0,0,0,0,0,0,0,0,0,354,488,25,135,0,11,0,3,9,2,1,0,0,4,0,0,0
+Gujarat Titans,Ishant Sharma,False,bowler,7,0,0,0,0,0,0,0,0,0,0,0,0,0,110,205,4,30,0,7,0,1,0,0,0,0,0,2,0,0,0
+Gujarat Titans,Gurnoor Singh Brar,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat Titans,Rashid Khan,True,bowler,60,163,149,9,12,30,21,6,18,1,0,0,0,0,1203,1618,60,383,0,30,1,24,18,5,1,1,0,25,0,4,6
+Gujarat Titans,Manav Suthar,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat Titans,Sai Kishore,False,bowler,15,5,10,0,0,3,3,0,3,0,0,0,0,0,255,393,19,74,0,7,0,2,6,1,0,0,0,4,0,0,1
+Gujarat Titans,Jayant Yadav,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat Titans,Glenn Phillips,True,wicketkeeper,40,1194,789,101,63,38,30,1,4,18,12,5,1,0,252,423,10,63,0,11,1,1,2,0,0,0,0,33,0,3,8
+Rajasthan Royals,Ravi Bishnoi,False,bowler,18,36,35,4,2,6,3,2,3,0,0,0,0,0,372,600,17,124,0,14,0,4,5,1,0,0,0,7,0,1,2
+Rajasthan Royals,Ravi Singh,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,Sushant Mishra,False,bowler,15,17,19,3,0,6,4,3,5,0,0,0,0,0,298,376,11,112,0,24,2,7,3,1,1,0,0,1,0,0,0
+Rajasthan Royals,Vignesh Puthur,False,bowler,5,0,0,0,0,0,0,0,0,0,0,0,0,0,72,109,6,24,0,1,0,0,1,1,0,0,0,1,0,0,0
+Rajasthan Royals,Yash Raj Punja,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,Aman Rao,False,batter,2,1,5,0,0,1,1,0,1,0,0,0,0,0,30,53,1,6,0,1,0,0,0,0,0,0,0,1,0,0,0
+Rajasthan Royals,Brijesh Sharma,False,all_rounder,4,0,3,0,0,2,1,1,2,0,0,0,0,0,78,88,2,32,0,2,0,2,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,Kuldeep Sen,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,Adam Milne,True,bowler,39,57,52,4,3,11,7,2,5,0,0,0,0,0,761,1006,46,321,1,46,5,17,13,5,2,1,0,4,0,2,0
+Rajasthan Royals,Ravindra Jadeja,False,all_rounder,14,301,222,25,10,14,9,1,3,4,2,1,0,0,227,324,10,76,0,3,2,1,2,0,0,0,0,6,0,1,0
+Rajasthan Royals,Sam Curran,True,all_rounder,91,2383,1663,187,103,81,59,1,12,44,23,7,2,0,1991,2978,106,631,1,96,6,19,31,15,5,1,0,45,0,10,9
+Rajasthan Royals,Shubham Dubey,False,batter,8,106,66,6,8,8,4,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rajasthan Royals,Vaibhav Suryavanshi,False,batter,7,252,122,18,24,7,7,1,2,4,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,Lhuan-Dre Pretorius,True,wicketkeeper,76,1345,929,134,57,67,59,9,25,24,11,3,3,0,639,952,36,234,1,35,4,9,11,3,0,0,0,27,1,4,6
+Rajasthan Royals,Shimron Hetmyer,True,batter,67,1741,1022,123,112,67,56,4,12,25,18,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,1,13
+Rajasthan Royals,Yashasvi Jaiswal,False,batter,14,559,350,60,28,14,13,0,2,10,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,1
+Rajasthan Royals,Dhruv Jurel,False,wicketkeeper,15,339,222,22,22,15,11,1,5,7,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,2,2
+Rajasthan Royals,Riyan Parag,False,all_rounder,14,397,238,28,27,14,12,0,2,8,2,1,1,0,120,170,3,29,0,9,0,0,0,0,0,0,0,8,0,1,2
+Rajasthan Royals,Yudhvir Singh Charak,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan Royals,Jofra Archer,True,bowler,35,129,108,8,7,22,14,5,15,1,0,0,0,0,765,1159,41,320,2,53,5,7,13,3,0,0,0,12,0,0,3
+Rajasthan Royals,Tushar Deshpande,False,bowler,10,7,8,0,0,4,1,0,4,0,0,0,0,0,192,340,9,57,0,20,0,0,3,1,0,0,0,2,0,0,0
+Rajasthan Royals,Kwena Maphaka,True,bowler,29,37,44,3,2,10,3,3,8,0,0,0,0,0,583,933,26,205,0,63,8,6,7,2,1,0,0,11,0,0,3
+Rajasthan Royals,Nandre Burger,True,bowler,18,34,39,4,0,5,3,0,2,0,0,0,0,0,395,549,20,150,1,31,4,5,6,1,0,0,0,2,0,0,0
+Sunrisers Hyderabad,Salil Arora,False,wicketkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Shivang Kumar,False,batter,4,5,26,0,0,4,4,1,4,0,0,0,0,0,42,82,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Sakib Hussain,False,bowler,31,344,326,21,18,19,12,2,7,7,2,1,0,0,509,669,23,176,0,31,3,5,7,3,0,0,0,8,0,2,1
+Sunrisers Hyderabad,Onkar Tarmale,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Krains Fuletra,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Praful Hinge,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Amit Kumar,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Shivam Mavi,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Liam Livingstone,True,all_rounder,47,1023,699,48,74,46,37,4,12,15,9,4,2,0,406,583,22,115,0,5,0,3,7,1,0,0,0,13,0,1,1
+Sunrisers Hyderabad,Jack Edwards,True,all_rounder,55,627,484,42,24,40,31,5,11,10,4,0,0,0,822,1058,55,315,1,36,3,19,15,6,3,2,0,25,3,2,4
+Sunrisers Hyderabad,Pat Cummins,True,all_rounder,15,105,73,7,7,10,4,0,3,0,0,0,0,0,310,482,16,114,0,15,1,2,5,3,0,0,0,5,0,0,1
+Sunrisers Hyderabad,Travis Head,True,batter,26,616,401,85,22,26,26,1,6,9,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1
+Sunrisers Hyderabad,Abhishek Sharma,False,all_rounder,48,1621,833,163,105,47,45,6,9,25,14,10,3,2,135,217,4,39,0,2,0,0,1,0,0,0,0,25,0,0,5
+Sunrisers Hyderabad,Aniket Verma,False,batter,20,498,317,21,40,20,15,1,3,8,4,2,1,0,42,53,2,21,0,0,0,0,1,0,0,0,0,11,0,1,2
+Sunrisers Hyderabad,R. Smaran,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Ishan Kishan,False,wicketkeeper,26,886,489,88,49,26,23,2,6,13,8,6,3,2,1,4,0,0,0,0,0,0,0,0,0,0,0,15,2,3,3
+Sunrisers Hyderabad,Heinrich Klaasen,True,wicketkeeper,46,1116,774,79,61,46,40,2,10,20,7,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,3,2
+Sunrisers Hyderabad,Nitish Kumar Reddy,False,all_rounder,16,182,153,16,4,11,8,1,4,3,0,0,0,0,126,132,3,59,0,6,0,1,0,0,0,0,0,9,0,1,2
+Sunrisers Hyderabad,Harsh Dubey,False,all_rounder,3,0,0,0,0,0,0,0,0,0,0,0,0,0,60,98,5,18,0,1,0,2,1,1,0,0,0,0,0,0,0
+Sunrisers Hyderabad,Kamindu Mendis,True,all_rounder,55,1423,1102,123,49,51,45,1,8,27,11,5,2,1,379,491,30,132,0,9,1,8,8,3,1,1,0,36,8,18,8
+Sunrisers Hyderabad,Harshal Patel,False,bowler,14,22,33,0,0,5,2,0,4,0,0,0,0,0,263,430,16,82,0,23,4,3,3,2,2,0,0,4,0,1,0
+Sunrisers Hyderabad,Brydon Carse,True,all_rounder,10,46,35,2,3,6,4,1,4,1,0,0,0,0,196,320,14,72,0,6,7,2,4,2,0,0,0,6,0,0,1
+Sunrisers Hyderabad,Jaydev Unadkat,False,bowler,7,0,0,0,0,0,0,0,0,0,0,0,0,0,143,175,11,52,0,3,0,1,3,2,0,0,0,0,0,1,0
+Sunrisers Hyderabad,Eshan Malinga,True,bowler,22,9,14,0,1,5,3,1,4,0,0,0,0,0,463,662,35,169,0,41,3,12,12,3,1,0,0,6,0,1,1
+Sunrisers Hyderabad,Zeeshan Ansari,False,bowler,10,0,0,0,0,0,0,0,0,0,0,0,0,0,203,333,6,47,0,5,1,1,1,1,0,0,0,3,0,1,1
+Lucknow Super Giants,Josh Inglis,True,wicketkeeper,31,659,420,70,32,31,26,2,8,12,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,4,3,8
+Lucknow Super Giants,Mukul Choudhary,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Akshat Raghuwanshi,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Anrich Nortje,True,bowler,18,21,20,0,1,4,3,0,3,0,0,0,0,0,393,538,22,154,0,20,3,5,6,2,1,0,0,1,0,0,0
+Lucknow Super Giants,Wanindu Hasaranga,True,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Naman Tiwari,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Mohammed Shami,False,bowler,11,17,18,1,1,6,2,0,4,0,0,0,0,0,213,387,9,67,0,10,2,0,2,1,0,0,0,2,0,0,0
+Lucknow Super Giants,Arjun Tendulkar,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Abdul Samad,False,batter,30,309,210,19,20,24,16,0,12,5,3,0,0,0,188,178,11,112,3,3,2,5,4,0,0,0,0,15,0,1,2
+Lucknow Super Giants,Ayush Badoni,False,batter,13,329,222,27,14,11,10,0,2,7,3,1,0,0,10,13,2,3,0,0,0,2,1,0,0,0,0,4,0,0,0
+Lucknow Super Giants,Aiden Markram,True,all_rounder,52,1688,1136,154,70,52,45,3,8,27,18,11,5,1,294,438,13,85,0,11,0,4,2,0,0,0,0,25,0,1,5
+Lucknow Super Giants,Matthew Breetzke,True,batter,32,832,652,72,33,32,30,0,8,12,8,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,1,2
+Lucknow Super Giants,Himmat Singh,False,batter,42,298,230,18,18,31,26,5,14,4,1,0,0,0,729,864,40,263,1,30,0,10,11,5,1,0,0,15,0,1,1
+Lucknow Super Giants,Rishabh Pant,False,wicketkeeper,13,269,202,23,16,13,11,2,6,2,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1
+Lucknow Super Giants,Nicholas Pooran,True,wicketkeeper,67,2030,1376,142,130,67,55,1,8,32,24,10,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,37,5,7,6
+Lucknow Super Giants,Mitchell Marsh,True,all_rounder,44,1578,1020,143,94,44,41,5,9,22,17,11,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,2
+Lucknow Super Giants,Shahbaz Ahmed,False,all_rounder,64,1246,1020,78,58,53,32,3,14,19,13,4,0,0,437,562,15,174,0,14,1,8,3,2,0,0,0,19,0,6,3
+Lucknow Super Giants,Arshin Kulkarni,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Mayank Yadav,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Avesh Khan,False,bowler,13,21,12,3,1,3,1,1,2,0,0,0,0,0,284,487,13,77,0,10,0,2,3,1,0,0,0,2,0,0,0
+Lucknow Super Giants,Mohsin Khan,False,bowler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucknow Super Giants,Manimaran Siddharth,False,bowler,3,5,3,1,0,1,1,0,1,0,0,0,0,0,54,81,2,15,0,2,0,1,1,0,0,0,0,1,0,0,0
+Lucknow Super Giants,Digvesh Rathi,False,bowler,13,1,3,0,0,1,1,0,1,0,0,0,0,0,312,429,14,95,0,11,2,2,4,0,0,0,0,3,0,0,0
+Lucknow Super Giants,Prince Yadav,False,bowler,6,5,10,0,0,2,0,0,2,0,0,0,0,0,137,225,3,42,0,7,0,3,0,0,0,0,0,3,0,2,1
+Lucknow Super Giants,Akash Singh,False,bowler,3,0,0,0,0,0,0,0,0,0,0,0,0,0,67,99,4,20,0,0,0,1,1,0,0,0,0,0,0,0,0
+Delhi Capitals,Auqib Nabi Dar,False,all_rounder,2,106,35,2,13,2,0,0,0,1,1,1,1,0,6,9,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0
+Delhi Capitals,Pathum Nissanka,True,batter,36,1215,776,111,55,36,34,3,5,16,13,7,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,2
+Delhi Capitals,Ben Duckett,True,batter,21,443,312,56,12,21,20,4,8,6,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,4
+Delhi Capitals,David Miller,True,batter,40,909,620,65,46,40,23,1,6,15,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,1,3
+Delhi Capitals,Lungi Ngidi,True,bowler,38,30,40,2,1,13,4,2,11,0,0,0,0,0,796,1098,38,328,1,18,1,8,7,5,1,0,0,4,0,1,0
+Delhi Capitals,Sahil Parakh,False,batter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi Capitals,Prithvi Shaw,False,batter,25,252,203,22,8,20,14,3,8,3,0,0,0,0,210,305,17,67,0,2,2,4,6,3,0,0,0,9,0,1,2
+Delhi Capitals,Kyle Jamieson,True,bowler,38,100,94,6,1,23,12,2,17,0,0,0,0,0,825,1164,40,359,3,46,7,6,9,4,1,0,0,8,0,0,1
+Delhi Capitals,Nitish Rana,False,batter,44,272,211,31,9,26,15,2,14,3,2,1,1,0,597,828,26,229,1,48,4,7,6,3,0,0,0,11,0,3,3
+Delhi Capitals,Axar Patel,False,all_rounder,59,484,381,37,20,36,28,6,13,6,1,0,0,0,1023,1282,57,387,3,21,0,17,19,4,1,0,0,19,0,6,5
+Delhi Capitals,KL Rahul,False,wicketkeeper,13,546,363,53,21,13,10,0,0,8,6,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,1
+Delhi Capitals,Abishek Porel,False,wicketkeeper,13,301,205,28,12,13,12,1,2,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0
+Delhi Capitals,Tristan Stubbs,True,wicketkeeper,46,1026,772,61,37,46,25,0,8,20,6,1,0,0,27,51,0,11,0,0,0,0,0,0,0,0,0,42,3,1,10
+Delhi Capitals,Karun Nair,False,batter,9,198,116,24,10,9,9,3,4,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0
+Delhi Capitals,Sameer Rizvi,False,batter,4,121,79,11,7,4,3,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Delhi Capitals,Ashutosh Sharma,False,batter,9,204,127,14,13,9,7,0,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+Delhi Capitals,Vipraj Nigam,False,all_rounder,14,142,79,16,8,8,7,1,2,2,0,0,0,0,234,356,11,72,0,7,4,3,5,0,0,0,0,3,0,2,0
+Delhi Capitals,Madhav Tiwari,False,all_rounder,2,3,4,0,0,1,1,0,1,0,0,0,0,0,6,14,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Delhi Capitals,Tripurana Vijay,False,all_rounder,3,42,34,8,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1
+Delhi Capitals,Ajay Mandal,False,all_rounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi Capitals,Kuldeep Yadav,False,bowler,27,20,28,2,0,8,5,1,7,0,0,0,0,0,585,725,41,208,0,17,2,9,13,5,2,0,0,2,0,0,0
+Delhi Capitals,Mitchell Starc,True,bowler,17,8,13,0,0,7,2,1,7,0,0,0,0,0,353,560,24,137,0,35,4,5,6,4,2,1,0,8,0,0,0
+Delhi Capitals,T. Natarajan,False,bowler,2,0,0,0,0,0,0,0,0,0,0,0,0,0,25,53,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi Capitals,Mukesh Kumar,False,bowler,41,487,456,32,16,26,21,1,6,8,1,0,0,0,507,685,28,201,2,27,2,8,8,2,1,0,0,27,0,0,5
+Delhi Capitals,Dushmantha Chameera,True,bowler,40,30,63,0,0,13,9,4,10,0,0,0,0,0,872,1214,59,329,1,31,5,22,15,7,2,1,0,8,0,0,1

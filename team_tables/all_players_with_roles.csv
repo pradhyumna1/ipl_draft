@@ -1,0 +1,249 @@
+team,player,is_overseas,role
+Chennai Super Kings,Kartik Sharma,False,wicketkeeper
+Chennai Super Kings,Prashant Veer,False,all_rounder
+Chennai Super Kings,Rahul Chahar,False,bowler
+Chennai Super Kings,Akeal Hosein,True,all_rounder
+Chennai Super Kings,Matt Henry,True,bowler
+Chennai Super Kings,Matthew Short,True,all_rounder
+Chennai Super Kings,Aman Khan,False,all_rounder
+Chennai Super Kings,Sarfaraz Khan,False,batter
+Chennai Super Kings,Zakary Foulkes,False,bowler
+Chennai Super Kings,Sanju Samson,False,wicketkeeper
+Chennai Super Kings,Ruturaj Gaikwad,False,batter
+Chennai Super Kings,Ayush Mhatre,False,batter
+Chennai Super Kings,M.S. Dhoni,False,wicketkeeper
+Chennai Super Kings,Dewald Brevis,True,batter
+Chennai Super Kings,Urvil Patel,False,wicketkeeper
+Chennai Super Kings,Shivam Dube,False,all_rounder
+Chennai Super Kings,Jamie Overton,True,all_rounder
+Chennai Super Kings,Ramakrishna Ghosh,False,all_rounder
+Chennai Super Kings,Noor Ahmad,True,bowler
+Chennai Super Kings,Khaleel Ahmed,False,bowler
+Chennai Super Kings,Anshul Kamboj,False,bowler
+Chennai Super Kings,Gurjapneet Singh,False,bowler
+Chennai Super Kings,Shreyas Gopal,False,all_rounder
+Chennai Super Kings,Mukesh Choudhary,False,bowler
+Chennai Super Kings,Nathan Ellis,True,bowler
+Mumbai Indians,Quinton de Kock,True,wicketkeeper
+Mumbai Indians,Mohammad Izhar,False,batter
+Mumbai Indians,Danish Malewar,False,batter
+Mumbai Indians,Atharva Ankolekar,False,all_rounder
+Mumbai Indians,Mayank Rawat,False,all_rounder
+Mumbai Indians,Sherfane Rutherford,True,batter
+Mumbai Indians,Mayank Markande,False,bowler
+Mumbai Indians,Shardul Thakur,False,all_rounder
+Mumbai Indians,Hardik Pandya,False,all_rounder
+Mumbai Indians,Rohit Sharma,False,batter
+Mumbai Indians,Suryakumar Yadav,False,batter
+Mumbai Indians,Tilak Varma,False,batter
+Mumbai Indians,Ryan Rickleton,False,wicketkeeper
+Mumbai Indians,Robin Minz,False,wicketkeeper
+Mumbai Indians,Mitchell Santner,True,all_rounder
+Mumbai Indians,Corbin Bosch,True,all_rounder
+Mumbai Indians,Naman Dhir,False,all_rounder
+Mumbai Indians,Jasprit Bumrah,False,bowler
+Mumbai Indians,Trent Boult,True,bowler
+Mumbai Indians,Allah Ghafanzar,False,bowler
+Mumbai Indians,Ashwani Kumar,False,bowler
+Mumbai Indians,Deepak Chahar,False,bowler
+Mumbai Indians,Will Jacks,True,all_rounder
+Mumbai Indians,Raghu Sharma,False,bowler
+Mumbai Indians,Raj Angad Bawa,False,all_rounder
+Kolkata Knight Riders,Cameron Green,True,all_rounder
+Kolkata Knight Riders,Matheesha Pathirana,True,bowler
+Kolkata Knight Riders,Mustafizur Rahman,True,bowler
+Kolkata Knight Riders,Tejasvi Singh,False,bowler
+Kolkata Knight Riders,Finn Allen,True,wicketkeeper
+Kolkata Knight Riders,Tim Seifert,True,wicketkeeper
+Kolkata Knight Riders,Rahul Tripathi,False,batter
+Kolkata Knight Riders,Kartik Tyagi,False,bowler
+Kolkata Knight Riders,Daksh Kamra,False,bowler
+Kolkata Knight Riders,Sarthak Ranjan,False,all_rounder
+Kolkata Knight Riders,Prashant Solanki,False,bowler
+Kolkata Knight Riders,Akashdeep,False,bowler
+Kolkata Knight Riders,Rachin Ravindra,True,all_rounder
+Kolkata Knight Riders,Ajinkya Rahane,False,batter
+Kolkata Knight Riders,Sunil Narine,False,all_rounder
+Kolkata Knight Riders,Rinku Singh,False,batter
+Kolkata Knight Riders,Angkrish Raghuvanshi,False,batter
+Kolkata Knight Riders,Manish Pandey,False,batter
+Kolkata Knight Riders,Varun Chakravarthy,False,bowler
+Kolkata Knight Riders,Ramandeep Singh,False,all_rounder
+Kolkata Knight Riders,Ankul Roy,False,all_rounder
+Kolkata Knight Riders,Rovman Powell,True,batter
+Kolkata Knight Riders,Harshit Rana,False,bowler
+Kolkata Knight Riders,Vaibhav Arora,False,bowler
+Kolkata Knight Riders,Umran Malik,False,bowler
+Royal Challengers Bengaluru,Venkatesh Iyer,False,all_rounder
+Royal Challengers Bengaluru,Mangesh Yadav,False,bowler
+Royal Challengers Bengaluru,Jacob Duffy,True,bowler
+Royal Challengers Bengaluru,Satwik Deswal,False,bowler
+Royal Challengers Bengaluru,Jordan Cox,True,wicketkeeper
+Royal Challengers Bengaluru,Vihaan Malhotra,False,batter
+Royal Challengers Bengaluru,Kanishk Chouhan,False,all_rounder
+Royal Challengers Bengaluru,Vicky Ostwal,False,bowler
+Royal Challengers Bengaluru,Rajat Patidar,False,batter
+Royal Challengers Bengaluru,Virat Kohli,False,batter
+Royal Challengers Bengaluru,Devdutt Padikkal,False,batter
+Royal Challengers Bengaluru,Phil Salt,True,wicketkeeper
+Royal Challengers Bengaluru,Jitesh Sharma,False,wicketkeeper
+Royal Challengers Bengaluru,Krunal Pandya,False,all_rounder
+Royal Challengers Bengaluru,Swapnil Singh,False,all_rounder
+Royal Challengers Bengaluru,Tim David,True,batter
+Royal Challengers Bengaluru,Romario Shepherd,True,all_rounder
+Royal Challengers Bengaluru,Jacob Bethell,True,all_rounder
+Royal Challengers Bengaluru,Josh Hazlewood,True,bowler
+Royal Challengers Bengaluru,Yash Dayal,False,bowler
+Royal Challengers Bengaluru,Bhuvneshwar Kumar,False,bowler
+Royal Challengers Bengaluru,Nuwan Thushara,True,bowler
+Royal Challengers Bengaluru,Rasikh Salam,False,bowler
+Royal Challengers Bengaluru,Abhinandan Singh,False,bowler
+Royal Challengers Bengaluru,Suyash Sharma,False,bowler
+Punjab Kings,Cooper Connolly,True,all_rounder
+Punjab Kings,Ben Dwarshuis,True,bowler
+Punjab Kings,Praveen Dubey,False,bowler
+Punjab Kings,Vishal Nishad,False,batter
+Punjab Kings,Prabhsimran Singh,False,wicketkeeper
+Punjab Kings,Priyansh Arya,False,batter
+Punjab Kings,Shreyas Iyer,False,batter
+Punjab Kings,Shashank Singh,False,batter
+Punjab Kings,Nehal Wadhera,False,batter
+Punjab Kings,Marcus Stoinis,True,all_rounder
+Punjab Kings,Azmatullah Omarzai,True,all_rounder
+Punjab Kings,Marco Jansen,True,all_rounder
+Punjab Kings,Harpreet Brar,False,all_rounder
+Punjab Kings,Yuzvendra Chahal,False,bowler
+Punjab Kings,Arshdeep Singh,False,bowler
+Punjab Kings,Musheer Khan,False,all_rounder
+Punjab Kings,Pyala Avinash,False,wicketkeeper
+Punjab Kings,Harnoor Pannu,False,batter
+Punjab Kings,Suryansh Shedge,False,all_rounder
+Punjab Kings,Mitchell Owen,True,all_rounder
+Punjab Kings,Xavier Bartlett,True,bowler
+Punjab Kings,Lockie Ferguson,True,bowler
+Punjab Kings,Vyshak Vijaykumar,False,bowler
+Punjab Kings,Yash Thakur,False,bowler
+Punjab Kings,Vishnu Vinod,False,wicketkeeper
+Gujarat Titans,Jason Holder,True,all_rounder
+Gujarat Titans,Ashok Sharma,False,bowler
+Gujarat Titans,Luke Wood,True,bowler
+Gujarat Titans,Prithvi Raj Yarra,False,bowler
+Gujarat Titans,Tom Banton,True,wicketkeeper
+Gujarat Titans,Shubman Gill,False,batter
+Gujarat Titans,Sai Sudharsan,False,batter
+Gujarat Titans,Kumar Kushagra,False,wicketkeeper
+Gujarat Titans,Anuj Rawat,False,wicketkeeper
+Gujarat Titans,Jos Buttler,True,wicketkeeper
+Gujarat Titans,Nishant Sindhu,False,all_rounder
+Gujarat Titans,Washington Sundar,False,all_rounder
+Gujarat Titans,Arshad Khan,False,all_rounder
+Gujarat Titans,Shahrukh Khan,False,batter
+Gujarat Titans,Rahul Tewatia,False,all_rounder
+Gujarat Titans,Kagiso Rabada,True,bowler
+Gujarat Titans,Mohammed Siraj,False,bowler
+Gujarat Titans,Prasidh Krishna,False,bowler
+Gujarat Titans,Ishant Sharma,False,bowler
+Gujarat Titans,Gurnoor Singh Brar,False,all_rounder
+Gujarat Titans,Rashid Khan,True,bowler
+Gujarat Titans,Manav Suthar,False,all_rounder
+Gujarat Titans,Sai Kishore,False,bowler
+Gujarat Titans,Jayant Yadav,False,all_rounder
+Gujarat Titans,Glenn Phillips,True,wicketkeeper
+Rajasthan Royals,Ravi Bishnoi,False,bowler
+Rajasthan Royals,Ravi Singh,False,bowler
+Rajasthan Royals,Sushant Mishra,False,bowler
+Rajasthan Royals,Vignesh Puthur,False,bowler
+Rajasthan Royals,Yash Raj Punja,False,batter
+Rajasthan Royals,Aman Rao,False,batter
+Rajasthan Royals,Brijesh Sharma,False,all_rounder
+Rajasthan Royals,Kuldeep Sen,False,bowler
+Rajasthan Royals,Adam Milne,True,bowler
+Rajasthan Royals,Ravindra Jadeja,False,all_rounder
+Rajasthan Royals,Sam Curran,True,all_rounder
+Rajasthan Royals,Shubham Dubey,False,batter
+Rajasthan Royals,Vaibhav Suryavanshi,False,batter
+Rajasthan Royals,Lhuan-Dre Pretorius,True,wicketkeeper
+Rajasthan Royals,Shimron Hetmyer,True,batter
+Rajasthan Royals,Yashasvi Jaiswal,False,batter
+Rajasthan Royals,Dhruv Jurel,False,wicketkeeper
+Rajasthan Royals,Riyan Parag,False,all_rounder
+Rajasthan Royals,Yudhvir Singh Charak,False,all_rounder
+Rajasthan Royals,Jofra Archer,True,bowler
+Rajasthan Royals,Tushar Deshpande,False,bowler
+Rajasthan Royals,Kwena Maphaka,True,bowler
+Rajasthan Royals,Nandre Burger,True,bowler
+Sunrisers Hyderabad,Salil Arora,False,wicketkeeper
+Sunrisers Hyderabad,Shivang Kumar,False,batter
+Sunrisers Hyderabad,Sakib Hussain,False,bowler
+Sunrisers Hyderabad,Onkar Tarmale,False,all_rounder
+Sunrisers Hyderabad,Krains Fuletra,False,bowler
+Sunrisers Hyderabad,Praful Hinge,False,bowler
+Sunrisers Hyderabad,Amit Kumar,False,batter
+Sunrisers Hyderabad,Shivam Mavi,False,bowler
+Sunrisers Hyderabad,Liam Livingstone,True,all_rounder
+Sunrisers Hyderabad,Jack Edwards,True,all_rounder
+Sunrisers Hyderabad,Pat Cummins,True,all_rounder
+Sunrisers Hyderabad,Travis Head,True,batter
+Sunrisers Hyderabad,Abhishek Sharma,False,all_rounder
+Sunrisers Hyderabad,Aniket Verma,False,batter
+Sunrisers Hyderabad,R. Smaran,False,batter
+Sunrisers Hyderabad,Ishan Kishan,False,wicketkeeper
+Sunrisers Hyderabad,Heinrich Klaasen,True,wicketkeeper
+Sunrisers Hyderabad,Nitish Kumar Reddy,False,all_rounder
+Sunrisers Hyderabad,Harsh Dubey,False,all_rounder
+Sunrisers Hyderabad,Kamindu Mendis,True,all_rounder
+Sunrisers Hyderabad,Harshal Patel,False,bowler
+Sunrisers Hyderabad,Brydon Carse,True,all_rounder
+Sunrisers Hyderabad,Jaydev Unadkat,False,bowler
+Sunrisers Hyderabad,Eshan Malinga,True,bowler
+Sunrisers Hyderabad,Zeeshan Ansari,False,bowler
+Lucknow Super Giants,Josh Inglis,True,wicketkeeper
+Lucknow Super Giants,Mukul Choudhary,False,bowler
+Lucknow Super Giants,Akshat Raghuwanshi,False,batter
+Lucknow Super Giants,Anrich Nortje,True,bowler
+Lucknow Super Giants,Wanindu Hasaranga,True,all_rounder
+Lucknow Super Giants,Naman Tiwari,False,bowler
+Lucknow Super Giants,Mohammed Shami,False,bowler
+Lucknow Super Giants,Arjun Tendulkar,False,all_rounder
+Lucknow Super Giants,Abdul Samad,False,batter
+Lucknow Super Giants,Ayush Badoni,False,batter
+Lucknow Super Giants,Aiden Markram,True,all_rounder
+Lucknow Super Giants,Matthew Breetzke,True,batter
+Lucknow Super Giants,Himmat Singh,False,batter
+Lucknow Super Giants,Rishabh Pant,False,wicketkeeper
+Lucknow Super Giants,Nicholas Pooran,True,wicketkeeper
+Lucknow Super Giants,Mitchell Marsh,True,all_rounder
+Lucknow Super Giants,Shahbaz Ahmed,False,all_rounder
+Lucknow Super Giants,Arshin Kulkarni,False,all_rounder
+Lucknow Super Giants,Mayank Yadav,False,bowler
+Lucknow Super Giants,Avesh Khan,False,bowler
+Lucknow Super Giants,Mohsin Khan,False,bowler
+Lucknow Super Giants,Manimaran Siddharth,False,bowler
+Lucknow Super Giants,Digvesh Rathi,False,bowler
+Lucknow Super Giants,Prince Yadav,False,bowler
+Lucknow Super Giants,Akash Singh,False,bowler
+Delhi Capitals,Auqib Nabi Dar,False,all_rounder
+Delhi Capitals,Pathum Nissanka,True,batter
+Delhi Capitals,Ben Duckett,True,batter
+Delhi Capitals,David Miller,True,batter
+Delhi Capitals,Lungi Ngidi,True,bowler
+Delhi Capitals,Sahil Parakh,False,batter
+Delhi Capitals,Prithvi Shaw,False,batter
+Delhi Capitals,Kyle Jamieson,True,bowler
+Delhi Capitals,Nitish Rana,False,batter
+Delhi Capitals,Axar Patel,False,all_rounder
+Delhi Capitals,KL Rahul,False,wicketkeeper
+Delhi Capitals,Abishek Porel,False,wicketkeeper
+Delhi Capitals,Tristan Stubbs,True,wicketkeeper
+Delhi Capitals,Karun Nair,False,batter
+Delhi Capitals,Sameer Rizvi,False,batter
+Delhi Capitals,Ashutosh Sharma,False,batter
+Delhi Capitals,Vipraj Nigam,False,all_rounder
+Delhi Capitals,Madhav Tiwari,False,all_rounder
+Delhi Capitals,Tripurana Vijay,False,all_rounder
+Delhi Capitals,Ajay Mandal,False,all_rounder
+Delhi Capitals,Kuldeep Yadav,False,bowler
+Delhi Capitals,Mitchell Starc,True,bowler
+Delhi Capitals,T. Natarajan,False,bowler
+Delhi Capitals,Mukesh Kumar,False,bowler
+Delhi Capitals,Dushmantha Chameera,True,bowler

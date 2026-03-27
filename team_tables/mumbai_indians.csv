@@ -1,0 +1,26 @@
+team,player,is_overseas,role
+Mumbai Indians,Quinton de Kock (1 cr),False,unknown
+Mumbai Indians,Mohammad Izhar (30 L),False,unknown
+Mumbai Indians,Danish Malewar (30 L),False,unknown
+Mumbai Indians,Atharva Ankolekar (30 L),False,unknown
+Mumbai Indians,Mayank Rawat (30 L),False,unknown
+Mumbai Indians,Sherfane Rutherford,True,all_rounder
+Mumbai Indians,Mayank Markande,False,bowler
+Mumbai Indians,Shardul Thakur,False,all_rounder
+Mumbai Indians,Hardik Pandya,False,all_rounder
+Mumbai Indians,Rohit Sharma,False,batter
+Mumbai Indians,Suryakumar Yadav,False,batter
+Mumbai Indians,Tilak Varma,False,batter
+Mumbai Indians,Ryan Rickleton,False,unknown
+Mumbai Indians,Robin Minz,False,wicketkeeper
+Mumbai Indians,Mitchell Santner,True,all_rounder
+Mumbai Indians,Corbin Bosch,True,all_rounder
+Mumbai Indians,Naman Dhir,False,all_rounder
+Mumbai Indians,Jasprit Bumrah,False,bowler
+Mumbai Indians,Trent Boult,True,bowler
+Mumbai Indians,Allah Ghafanzar,False,unknown
+Mumbai Indians,Ashwani Kumar,False,bowler
+Mumbai Indians,Deepak Chahar,False,bowler
+Mumbai Indians,Will Jacks,True,all_rounder
+Mumbai Indians,Raghu Sharma,False,bowler
+Mumbai Indians,Raj Angad Bawa,False,all_rounder
